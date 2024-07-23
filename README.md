@@ -9,4 +9,4 @@
 # ConvR_HC_FWT.mlx: up-to-date backup of matlab script acquired from Pouneh, used to create matfiles of LAB60 output so the timeseries script can make a timeseries of model output. Convective resistance, heat content, freshwater content
 # ConvR_HC_FWT_timeseries.mlx: up-to-date backup of matlab script acquired from Pouneh, used to produce timeseries of LAB60 output based on files generated in previous script.
 # ModelOutputScript.mlx: script for wessex that loads in track data and retrieves TS data from LAB60 for the water column below each point of a cyclone along its track, and then saves the data for each track as a struct.
-# countTimesteps.m: simple function made to count the number of timesteps in a storm track [for the purpose of filtering out unrealistically long tracks, which CGRF had a lot of].
+# countTimesteps.m: simple function made to count the number of timesteps in a storm track [for the purpose of filtering out unrealistically long-lived storms, which CGRF had a lot of].
